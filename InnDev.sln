@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "InnDev", "InnDev\InnDev.vcxproj", "{8ECB2278-11AA-45AF-9B3A-9D7E5FDCAA43}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8ECB2278-11AA-45AF-9B3A-9D7E5FDCAA43}.Debug|x64.ActiveCfg = Debug|x64
+		{8ECB2278-11AA-45AF-9B3A-9D7E5FDCAA43}.Debug|x64.Build.0 = Debug|x64
+		{8ECB2278-11AA-45AF-9B3A-9D7E5FDCAA43}.Debug|x86.ActiveCfg = Debug|Win32
+		{8ECB2278-11AA-45AF-9B3A-9D7E5FDCAA43}.Debug|x86.Build.0 = Debug|Win32
+		{8ECB2278-11AA-45AF-9B3A-9D7E5FDCAA43}.Release|x64.ActiveCfg = Release|x64
+		{8ECB2278-11AA-45AF-9B3A-9D7E5FDCAA43}.Release|x64.Build.0 = Release|x64
+		{8ECB2278-11AA-45AF-9B3A-9D7E5FDCAA43}.Release|x86.ActiveCfg = Release|Win32
+		{8ECB2278-11AA-45AF-9B3A-9D7E5FDCAA43}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E89A2C1-E7EA-4F6D-9DD3-7B9985E3A5D5}
+	EndGlobalSection
+EndGlobal
